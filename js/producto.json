@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Teclado Gaming",
+        "precio": 300000,
+        "imagen": "./imagenes/Teclado.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Mouse Gamer",
+        "precio": 150000,
+        "imagen": "./imagenes/Mouse.jpg"
+    },
+    {
+         "id": 3,
+        "nombre": "Auriculares Gamer",
+        "precio": 200000,
+        "imagen": "./imagenes/Auriculares.webp"
+    }
+]
